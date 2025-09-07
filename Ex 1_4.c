@@ -1,4 +1,4 @@
-//C program to swap two values:-
+//C program to swap two values using a third variable:-
 //a= 1st value, b = 2nd value from user input.
 #include<stdio.h>
 int main(){
@@ -12,3 +12,4 @@ int main(){
   printf("\nThe swapped value of 'b' is: %d",b);
   return 0;
 }
+
